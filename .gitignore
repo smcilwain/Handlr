@@ -8,4 +8,14 @@
 !/lib
 *.user
 *.suo
-*.xap
+.nu
+_ReSharper.*
+_UpgradeReport.*
+*.resharper.user
+*.resharper
+*.cache
+*~
+TestResult.xml
+results
+nuget
+
