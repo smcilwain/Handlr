@@ -86,6 +86,32 @@ namespace HandlrTests
 			var r = new ReflectedTypeRegistry(a);
 		}
 
+		[Test]
+		public void CreateHandlersExplicitly()
+		{
+			
+			var r = new ExplicitTypeRegistry();
+			
+			Assert.NotNull(r);
+			
+			r.RegisterHandler<TestTypeToHandle1>(new TestTypeHandlerA());
+			r.RegisterHandler<TestTypeToHandle1>(new TestTypeHandlerB());
+			r.RegisterHandler<TestTypeToHandle2>(new TestTypeHandlerC());
+					
+			Assert.Greater(r.TypeHandlers.Count,0);
+			Assert.AreEqual(r.TypeHandlers.Count,2);
+						
+			foreach (var h in r.TypeHandlers)
+			{
+				Assert.NotNull(h.Key);
+				Assert.NotNull(h.Value);
+						
+				
+			}
+
+		}
+		
+		
 	}
 	
 	
