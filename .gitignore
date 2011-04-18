@@ -19,3 +19,6 @@ TestResult.xml
 results
 nuget
 
+
+/src/Handlr/PartCover/coverage.xml
+/src/partcover.driver.log
