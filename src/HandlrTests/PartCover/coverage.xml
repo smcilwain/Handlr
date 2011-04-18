@@ -1,14 +1,14 @@
-<PartCoverReport version="4.0" date="2011-04-17T23:32:23.5356961-05:00">
- <File id="1" url="c:\Users\Steve.SMCILWAIN-LT\Projects\Handlr\HandlrTests\Tests.cs" />
- <File id="2" url="c:\Users\Steve.SMCILWAIN-LT\Projects\Handlr\Handlr\ReflectedTypeRegistry.cs" />
+<PartCoverReport version="4.0" date="2011-04-18T00:32:15.7859859-05:00">
+ <File id="1" url="c:\Users\Steve.SMCILWAIN-LT\Projects\Github\Handlr\src\HandlrTests\Tests.cs" />
+ <File id="2" url="c:\Users\Steve.SMCILWAIN-LT\Projects\Github\Handlr\src\Handlr\ReflectedTypeRegistry.cs" />
  <Assembly id="1" name="nunit-console" module="C:\Program Files (x86)\SharpDevelop\4.0\bin\Tools\NUnit\nunit-console-x86.exe" domain="DefaultDomain" domainIdx="1" />
  <Assembly id="2" name="nunit.core" module="C:\Program Files (x86)\SharpDevelop\4.0\bin\Tools\NUnit\lib\nunit.core.dll" domain="nunit-console-x86.exe" domainIdx="1" />
  <Assembly id="3" name="nunit.util" module="C:\Program Files (x86)\SharpDevelop\4.0\bin\Tools\NUnit\lib\nunit.util.dll" domain="nunit-console-x86.exe" domainIdx="1" />
  <Assembly id="4" name="nunit-console-runner" module="C:\Program Files (x86)\SharpDevelop\4.0\bin\Tools\NUnit\lib\nunit-console-runner.dll" domain="nunit-console-x86.exe" domainIdx="1" />
  <Assembly id="5" name="nunit.core.interfaces" module="C:\Program Files (x86)\SharpDevelop\4.0\bin\Tools\NUnit\lib\nunit.core.interfaces.dll" domain="nunit-console-x86.exe" domainIdx="1" />
- <Assembly id="8" name="HandlrTests" module="C:\Users\Steve.SMCILWAIN-LT\AppData\Local\Temp\nunit20\ShadowCopyCache\1496_634386799421825608\Tests_82121656\assembly\dl3\977c12b4\0d5d1296_81fdcb01\HandlrTests.DLL" domain="test-domain-HandlrTests.dll" domainIdx="1" />
- <Assembly id="9" name="Handlr" module="C:\Users\Steve.SMCILWAIN-LT\AppData\Local\Temp\nunit20\ShadowCopyCache\1496_634386799421825608\Tests_82121656\assembly\dl3\ce2efdbc\b7e3369a_7ffdcb01\Handlr.DLL" domain="test-domain-HandlrTests.dll" domainIdx="1" />
- <Assembly id="10" name="nunit.framework" module="C:\Users\Steve.SMCILWAIN-LT\AppData\Local\Temp\nunit20\ShadowCopyCache\1496_634386799421825608\Tests_82121656\assembly\dl3\a0980e32\0030a9a4_9af1cb01\nunit.framework.DLL" domain="test-domain-HandlrTests.dll" domainIdx="1" />
+ <Assembly id="8" name="HandlrTests" module="C:\Users\Steve.SMCILWAIN-LT\AppData\Local\Temp\nunit20\ShadowCopyCache\7076_634386835344448518\Tests_85713782\assembly\dl3\a7e3cbfb\630968e8_89fdcb01\HandlrTests.DLL" domain="test-domain-HandlrTests.dll" domainIdx="1" />
+ <Assembly id="9" name="Handlr" module="C:\Users\Steve.SMCILWAIN-LT\AppData\Local\Temp\nunit20\ShadowCopyCache\7076_634386835344448518\Tests_85713782\assembly\dl3\1f3b0617\085443e7_89fdcb01\Handlr.DLL" domain="test-domain-HandlrTests.dll" domainIdx="1" />
+ <Assembly id="10" name="nunit.framework" module="C:\Users\Steve.SMCILWAIN-LT\AppData\Local\Temp\nunit20\ShadowCopyCache\7076_634386835344448518\Tests_85713782\assembly\dl3\2ca42f1d\0030a9a4_9af1cb01\nunit.framework.DLL" domain="test-domain-HandlrTests.dll" domainIdx="1" />
  <Type asmref="1" name="NUnit.ConsoleRunner.ExtendedConsoleUi" flags="0">
   <Method name=".ctor" sig="void  ()" bodysize="8" flags="0" iflags="0">
    <pt visit="1" pos="0" len="6" />
@@ -71,12 +71,12 @@
    <pt visit="0" pos="382" len="12" />
    <pt visit="1" pos="394" len="10" />
    <pt visit="1" pos="404" len="17" />
-   <pt visit="1" pos="421" len="16" />
-   <pt visit="1" pos="437" len="2" />
-   <pt visit="1" pos="439" len="16" />
-   <pt visit="1" pos="455" len="5" />
-   <pt visit="1" pos="460" len="11" />
-   <pt visit="1" pos="471" len="2" />
+   <pt visit="0" pos="421" len="16" />
+   <pt visit="0" pos="437" len="2" />
+   <pt visit="0" pos="439" len="16" />
+   <pt visit="0" pos="455" len="5" />
+   <pt visit="0" pos="460" len="11" />
+   <pt visit="0" pos="471" len="2" />
    <pt visit="1" pos="473" len="8" />
    <pt visit="0" pos="481" len="16" />
    <pt visit="0" pos="497" len="2" />
@@ -1650,7 +1650,7 @@
    <pt visit="1" pos="6" len="5" />
    <pt visit="1" pos="11" len="12" />
    <pt visit="1" pos="23" len="4" />
-   <pt visit="16" pos="27" len="3" />
+   <pt visit="15" pos="27" len="3" />
    <pt visit="18" pos="30" len="12" />
    <pt visit="18" pos="42" len="13" />
    <pt visit="18" pos="55" len="8" />
@@ -1660,17 +1660,17 @@
    <pt visit="18" pos="87" len="4" />
    <pt visit="1" pos="91" len="7" />
    <pt visit="18" pos="98" len="1" />
-   <pt visit="34" pos="99" len="11" />
-   <pt visit="34" pos="110" len="7" />
-   <pt visit="16" pos="117" len="13" />
-   <pt visit="15" pos="130" len="11" />
-   <pt visit="15" pos="141" len="1" />
-   <pt visit="16" pos="142" len="1" />
-   <pt visit="17" pos="143" len="11" />
-   <pt visit="17" pos="154" len="3" />
+   <pt visit="33" pos="99" len="11" />
+   <pt visit="33" pos="110" len="7" />
+   <pt visit="15" pos="117" len="13" />
+   <pt visit="14" pos="130" len="11" />
+   <pt visit="14" pos="141" len="1" />
+   <pt visit="15" pos="142" len="1" />
+   <pt visit="16" pos="143" len="11" />
+   <pt visit="16" pos="154" len="3" />
    <pt visit="2" pos="157" len="11" />
-   <pt visit="15" pos="168" len="1" />
-   <pt visit="17" pos="169" len="7" />
+   <pt visit="14" pos="168" len="1" />
+   <pt visit="16" pos="169" len="7" />
    <pt visit="1" pos="176" len="3" />
    <pt visit="0" pos="179" len="18" />
    <pt visit="0" pos="197" len="4" />
@@ -1767,12 +1767,12 @@
  </Type>
  <Type asmref="2" name="NUnit.Core.EventQueue" flags="0">
   <Method name="get_Count" sig="int  ()" bodysize="64" flags="0" iflags="0">
-   <pt visit="51" pos="0" len="9" />
-   <pt visit="51" pos="9" len="13" />
-   <pt visit="51" pos="22" len="3" />
-   <pt visit="51" pos="25" len="6" />
-   <pt visit="51" pos="31" len="2" />
-   <pt visit="51" pos="33" len="3" />
+   <pt visit="49" pos="0" len="9" />
+   <pt visit="49" pos="9" len="13" />
+   <pt visit="49" pos="22" len="3" />
+   <pt visit="49" pos="25" len="6" />
+   <pt visit="49" pos="31" len="2" />
+   <pt visit="49" pos="33" len="3" />
   </Method>
   <Method name="Enqueue" sig="void  (NUnit.Core.Event)" bodysize="72" flags="0" iflags="0">
    <pt visit="18" pos="0" len="9" />
@@ -2131,8 +2131,8 @@
    <pt visit="2" pos="18" len="4" />
   </Method>
   <Method name="get_Tests" sig="System.Collections.IList  ()" bodysize="24" flags="0" iflags="0">
-   <pt visit="47" pos="0" len="10" />
-   <pt visit="47" pos="10" len="2" />
+   <pt visit="39" pos="0" len="10" />
+   <pt visit="39" pos="10" len="2" />
   </Method>
   <Method name=".ctor" sig="void  (string, string)" bodysize="24" flags="0" iflags="0" />
   <Method name=".ctor" sig="void  (System.Type)" bodysize="13" flags="0" iflags="0" />
@@ -2186,8 +2186,8 @@
   </Method>
   <Method name="Add" sig="void  (object)" bodysize="37" flags="0" iflags="0" />
   <Method name="get_IsSuite" sig="bool  ()" bodysize="19" flags="0" iflags="0">
-   <pt visit="19" pos="0" len="5" />
-   <pt visit="19" pos="5" len="2" />
+   <pt visit="15" pos="0" len="5" />
+   <pt visit="15" pos="5" len="2" />
   </Method>
   <Method name="get_TestCount" sig="int  ()" bodysize="120" flags="0" iflags="0">
    <pt visit="18" pos="0" len="10" />
@@ -5309,25 +5309,20 @@
   </Method>
  </Type>
  <Type asmref="3" name="Codeblast.OptionAttribute" flags="0">
-  <Method name="get_Short" sig="string  ()" bodysize="24" flags="0" iflags="0">
-   <pt visit="2" pos="0" len="10" />
-   <pt visit="2" pos="10" len="2" />
-  </Method>
-  <Method name="set_Short" sig="void  (string)" bodysize="10" flags="0" iflags="0">
-   <pt visit="1" pos="0" len="9" />
-  </Method>
+  <Method name="get_Short" sig="string  ()" bodysize="24" flags="0" iflags="0" />
+  <Method name="set_Short" sig="void  (string)" bodysize="10" flags="0" iflags="0" />
   <Method name="get_Value" sig="object  ()" bodysize="24" flags="0" iflags="0">
-   <pt visit="2" pos="0" len="10" />
-   <pt visit="2" pos="10" len="2" />
+   <pt visit="1" pos="0" len="10" />
+   <pt visit="1" pos="10" len="2" />
   </Method>
   <Method name="set_Value" sig="void  (object)" bodysize="10" flags="0" iflags="0" />
   <Method name="get_Description" sig="string  ()" bodysize="24" flags="0" iflags="0" />
   <Method name="set_Description" sig="void  (string)" bodysize="10" flags="0" iflags="0">
-   <pt visit="4" pos="0" len="9" />
+   <pt visit="1" pos="0" len="9" />
   </Method>
   <Method name=".ctor" sig="void  ()" bodysize="8" flags="0" iflags="0">
-   <pt visit="4" pos="0" len="6" />
-   <pt visit="4" pos="6" len="1" />
+   <pt visit="1" pos="0" len="6" />
+   <pt visit="1" pos="6" len="1" />
   </Method>
  </Type>
  <Type asmref="3" name="NUnit.Util.MultipleTestDomainRunner" flags="0">
@@ -5532,20 +5527,20 @@
    <pt visit="2" pos="24" len="2" />
   </Method>
   <Method name="get_AllowForwardSlash" sig="bool  ()" bodysize="24" flags="0" iflags="0">
-   <pt visit="2" pos="0" len="10" />
-   <pt visit="2" pos="10" len="2" />
+   <pt visit="1" pos="0" len="10" />
+   <pt visit="1" pos="10" len="2" />
   </Method>
   <Method name="Init" sig="int  (string[])" bodysize="192" flags="0" iflags="0">
    <pt visit="1" pos="0" len="10" />
-   <pt visit="3" pos="10" len="10" />
-   <pt visit="3" pos="20" len="14" />
-   <pt visit="2" pos="34" len="11" />
-   <pt visit="2" pos="45" len="9" />
-   <pt visit="2" pos="54" len="6" />
+   <pt visit="2" pos="10" len="10" />
+   <pt visit="2" pos="20" len="14" />
+   <pt visit="1" pos="34" len="11" />
+   <pt visit="1" pos="45" len="9" />
+   <pt visit="1" pos="54" len="6" />
    <pt visit="0" pos="60" len="13" />
    <pt visit="0" pos="73" len="6" />
    <pt visit="0" pos="79" len="1" />
-   <pt visit="2" pos="80" len="3" />
+   <pt visit="1" pos="80" len="3" />
    <pt visit="1" pos="83" len="19" />
    <pt visit="1" pos="102" len="6" />
    <pt visit="1" pos="108" len="5" />
@@ -5555,118 +5550,106 @@
    <pt visit="0" pos="143" len="9" />
    <pt visit="0" pos="152" len="1" />
    <pt visit="1" pos="153" len="1" />
-   <pt visit="3" pos="154" len="5" />
-   <pt visit="4" pos="159" len="15" />
+   <pt visit="2" pos="154" len="5" />
+   <pt visit="3" pos="159" len="15" />
    <pt visit="1" pos="174" len="4" />
    <pt visit="1" pos="178" len="2" />
   </Method>
   <Method name="IsOption" sig="int  (string)" bodysize="164" flags="0" iflags="0">
-   <pt visit="3" pos="0" len="9" />
-   <pt visit="3" pos="9" len="10" />
+   <pt visit="2" pos="0" len="9" />
+   <pt visit="2" pos="9" len="10" />
    <pt visit="0" pos="19" len="5" />
-   <pt visit="3" pos="24" len="6" />
-   <pt visit="3" pos="30" len="10" />
-   <pt visit="3" pos="40" len="9" />
-   <pt visit="3" pos="49" len="8" />
+   <pt visit="2" pos="24" len="6" />
+   <pt visit="2" pos="30" len="10" />
+   <pt visit="2" pos="40" len="9" />
+   <pt visit="2" pos="49" len="8" />
    <pt visit="0" pos="57" len="7" />
    <pt visit="0" pos="64" len="9" />
    <pt visit="0" pos="73" len="5" />
-   <pt visit="3" pos="78" len="1" />
-   <pt visit="3" pos="79" len="4" />
+   <pt visit="2" pos="78" len="1" />
+   <pt visit="2" pos="79" len="4" />
    <pt visit="0" pos="83" len="4" />
-   <pt visit="3" pos="87" len="3" />
+   <pt visit="2" pos="87" len="3" />
    <pt visit="0" pos="90" len="9" />
    <pt visit="0" pos="99" len="2" />
-   <pt visit="3" pos="101" len="7" />
-   <pt visit="3" pos="108" len="7" />
-   <pt visit="2" pos="115" len="6" />
-   <pt visit="2" pos="121" len="2" />
-   <pt visit="2" pos="123" len="9" />
-   <pt visit="2" pos="132" len="5" />
+   <pt visit="2" pos="101" len="7" />
+   <pt visit="2" pos="108" len="7" />
+   <pt visit="1" pos="115" len="6" />
+   <pt visit="1" pos="121" len="2" />
+   <pt visit="1" pos="123" len="9" />
+   <pt visit="1" pos="132" len="5" />
    <pt visit="1" pos="137" len="1" />
-   <pt visit="3" pos="138" len="4" />
-   <pt visit="2" pos="142" len="4" />
+   <pt visit="2" pos="138" len="4" />
+   <pt visit="1" pos="142" len="4" />
    <pt visit="1" pos="146" len="4" />
-   <pt visit="3" pos="150" len="2" />
+   <pt visit="2" pos="150" len="2" />
   </Method>
   <Method name="IsOptionNameChar" sig="bool  (char)" bodysize="34" flags="0" iflags="0">
-   <pt visit="2" pos="0" len="7" />
-   <pt visit="2" pos="7" len="2" />
+   <pt visit="1" pos="0" len="7" />
+   <pt visit="1" pos="7" len="2" />
    <pt visit="0" pos="9" len="7" />
-   <pt visit="2" pos="16" len="1" />
-   <pt visit="2" pos="17" len="3" />
-   <pt visit="2" pos="20" len="2" />
+   <pt visit="1" pos="16" len="1" />
+   <pt visit="1" pos="17" len="3" />
+   <pt visit="1" pos="20" len="2" />
   </Method>
   <Method name="IsValidParameter" sig="bool  (string)" bodysize="19" flags="0" iflags="0">
    <pt visit="1" pos="0" len="5" />
    <pt visit="1" pos="5" len="2" />
   </Method>
-  <Method name="MatchShortName" sig="bool  (System.Reflection.FieldInfo, string)" bodysize="106" flags="0" iflags="0">
-   <pt visit="2" pos="0" len="12" />
-   <pt visit="2" pos="12" len="6" />
-   <pt visit="2" pos="18" len="9" />
-   <pt visit="2" pos="27" len="17" />
-   <pt visit="2" pos="44" len="7" />
-   <pt visit="2" pos="51" len="12" />
-   <pt visit="0" pos="63" len="4" />
-   <pt visit="2" pos="67" len="7" />
-   <pt visit="4" pos="74" len="13" />
-   <pt visit="2" pos="87" len="4" />
-   <pt visit="2" pos="91" len="3" />
-  </Method>
+  <Method name="MatchShortName" sig="bool  (System.Reflection.FieldInfo, string)" bodysize="106" flags="0" iflags="0" />
   <Method name="GetMemberField" sig="System.Reflection.FieldInfo  (string)" bodysize="123" flags="0" iflags="0">
-   <pt visit="2" pos="0" len="7" />
-   <pt visit="2" pos="7" len="9" />
-   <pt visit="2" pos="16" len="10" />
-   <pt visit="4" pos="26" len="13" />
-   <pt visit="4" pos="39" len="7" />
-   <pt visit="4" pos="46" len="12" />
-   <pt visit="2" pos="58" len="4" />
-   <pt visit="2" pos="62" len="8" />
-   <pt visit="2" pos="70" len="9" />
+   <pt visit="1" pos="0" len="7" />
+   <pt visit="1" pos="7" len="9" />
+   <pt visit="1" pos="16" len="10" />
+   <pt visit="1" pos="26" len="13" />
+   <pt visit="1" pos="39" len="7" />
+   <pt visit="1" pos="46" len="12" />
+   <pt visit="1" pos="58" len="4" />
+   <pt visit="0" pos="62" len="8" />
+   <pt visit="0" pos="70" len="9" />
    <pt visit="0" pos="79" len="4" />
-   <pt visit="2" pos="83" len="7" />
-   <pt visit="4" pos="90" len="14" />
+   <pt visit="0" pos="83" len="7" />
+   <pt visit="1" pos="90" len="14" />
    <pt visit="0" pos="104" len="4" />
-   <pt visit="2" pos="108" len="3" />
+   <pt visit="1" pos="108" len="3" />
   </Method>
   <Method name="GetOptionValue" sig="object  (System.Reflection.FieldInfo)" bodysize="69" flags="0" iflags="0">
-   <pt visit="2" pos="0" len="12" />
-   <pt visit="2" pos="12" len="6" />
-   <pt visit="2" pos="18" len="14" />
-   <pt visit="2" pos="32" len="16" />
-   <pt visit="2" pos="48" len="3" />
+   <pt visit="1" pos="0" len="12" />
+   <pt visit="1" pos="12" len="6" />
+   <pt visit="1" pos="18" len="14" />
+   <pt visit="1" pos="32" len="16" />
+   <pt visit="1" pos="48" len="3" />
    <pt visit="0" pos="51" len="4" />
-   <pt visit="2" pos="55" len="2" />
+   <pt visit="1" pos="55" len="2" />
   </Method>
   <Method name="GetOption" sig="bool  (string[], ref int, int)" bodysize="380" flags="0" iflags="0">
-   <pt visit="2" pos="0" len="18" />
-   <pt visit="2" pos="18" len="7" />
-   <pt visit="2" pos="25" len="11" />
-   <pt visit="2" pos="36" len="8" />
-   <pt visit="2" pos="44" len="14" />
-   <pt visit="2" pos="58" len="8" />
-   <pt visit="2" pos="66" len="17" />
-   <pt visit="2" pos="83" len="7" />
-   <pt visit="2" pos="90" len="10" />
-   <pt visit="2" pos="100" len="11" />
+   <pt visit="1" pos="0" len="18" />
+   <pt visit="1" pos="18" len="7" />
+   <pt visit="1" pos="25" len="11" />
+   <pt visit="1" pos="36" len="8" />
+   <pt visit="1" pos="44" len="14" />
+   <pt visit="1" pos="58" len="8" />
+   <pt visit="1" pos="66" len="17" />
+   <pt visit="1" pos="83" len="7" />
+   <pt visit="1" pos="90" len="10" />
+   <pt visit="1" pos="100" len="11" />
    <pt visit="0" pos="111" len="12" />
-   <pt visit="2" pos="123" len="6" />
-   <pt visit="2" pos="129" len="10" />
-   <pt visit="2" pos="139" len="11" />
-   <pt visit="2" pos="150" len="4" />
+   <pt visit="1" pos="123" len="6" />
+   <pt visit="1" pos="129" len="10" />
+   <pt visit="1" pos="139" len="11" />
+   <pt visit="1" pos="150" len="4" />
    <pt visit="0" pos="154" len="15" />
-   <pt visit="2" pos="169" len="1" />
-   <pt visit="2" pos="170" len="10" />
-   <pt visit="2" pos="180" len="5" />
-   <pt visit="2" pos="185" len="5" />
-   <pt visit="2" pos="190" len="13" />
-   <pt visit="2" pos="203" len="7" />
-   <pt visit="2" pos="210" len="8" />
+   <pt visit="1" pos="169" len="1" />
+   <pt visit="1" pos="170" len="10" />
+   <pt visit="1" pos="180" len="5" />
+   <pt visit="1" pos="185" len="5" />
+   <pt visit="1" pos="190" len="13" />
+   <pt visit="1" pos="203" len="7" />
+   <pt visit="1" pos="210" len="8" />
    <pt visit="0" pos="218" len="1" />
-   <pt visit="2" pos="219" len="6" />
+   <pt visit="1" pos="219" len="6" />
    <pt visit="0" pos="225" len="5" />
-   <pt visit="2" pos="230" len="5" />
+   <pt visit="1" pos="230" len="5" />
    <pt visit="0" pos="235" len="6" />
    <pt visit="0" pos="241" len="5" />
    <pt visit="0" pos="246" len="9" />
@@ -5685,16 +5668,16 @@
    <pt visit="0" pos="322" len="3" />
    <pt visit="0" pos="325" len="5" />
    <pt visit="0" pos="330" len="6" />
-   <pt visit="2" pos="336" len="4" />
+   <pt visit="1" pos="336" len="4" />
   </Method>
   <Method name="SplitOptionAndValue" sig="void  (ref string, ref object)" bodysize="76" flags="0" iflags="0">
-   <pt visit="2" pos="0" len="26" />
-   <pt visit="2" pos="26" len="12" />
+   <pt visit="1" pos="0" len="26" />
+   <pt visit="1" pos="26" len="12" />
    <pt visit="0" pos="38" len="2" />
-   <pt visit="2" pos="40" len="11" />
-   <pt visit="2" pos="51" len="11" />
-   <pt visit="2" pos="62" len="1" />
-   <pt visit="2" pos="63" len="1" />
+   <pt visit="1" pos="40" len="11" />
+   <pt visit="1" pos="51" len="11" />
+   <pt visit="1" pos="62" len="1" />
+   <pt visit="1" pos="63" len="1" />
   </Method>
   <Method name="get_Item" sig="string  (int)" bodysize="52" flags="0" iflags="0" />
   <Method name="get_Parameters" sig="System.Collections.ArrayList  ()" bodysize="24" flags="0" iflags="0">
@@ -7724,8 +7707,8 @@
    <pt visit="8" pos="46" len="2" />
   </Method>
   <Method name="get_TestName" sig="NUnit.Core.TestName  ()" bodysize="24" flags="0" iflags="0">
-   <pt visit="117" pos="0" len="10" />
-   <pt visit="117" pos="10" len="2" />
+   <pt visit="86" pos="0" len="10" />
+   <pt visit="86" pos="10" len="2" />
   </Method>
   <Method name="get_ApartmentState" sig="System.Threading.ApartmentState  ()" bodysize="65" flags="0" iflags="0">
    <pt visit="16" pos="0" len="7" />
@@ -7866,10 +7849,7 @@
    <pt visit="25" pos="0" len="5" />
    <pt visit="25" pos="5" len="2" />
   </Method>
-  <Method name="NUnit.Core.ITest.get_Parent" sig="NUnit.Core.ITest  ()" bodysize="24" flags="0" iflags="0">
-   <pt visit="29" pos="0" len="10" />
-   <pt visit="29" pos="10" len="2" />
-  </Method>
+  <Method name="NUnit.Core.ITest.get_Parent" sig="NUnit.Core.ITest  ()" bodysize="24" flags="0" iflags="0" />
   <Method name="get_Parent" sig="NUnit.Core.Test  ()" bodysize="24" flags="0" iflags="0">
    <pt visit="15" pos="0" len="10" />
    <pt visit="15" pos="10" len="2" />
@@ -7924,65 +7904,10 @@
  </Type>
  <Type asmref="5" name="NUnit.Core.TestFilter" flags="0">
   <Method name="get_IsEmpty" sig="bool  ()" bodysize="27" flags="0" iflags="0" />
-  <Method name="Pass" sig="bool  (NUnit.Core.ITest)" bodysize="46" flags="0" iflags="0">
-   <pt visit="15" pos="0" len="8" />
-   <pt visit="15" pos="8" len="2" />
-   <pt visit="13" pos="10" len="7" />
-   <pt visit="13" pos="17" len="2" />
-   <pt visit="3" pos="19" len="7" />
-   <pt visit="3" pos="26" len="2" />
-   <pt visit="12" pos="28" len="1" />
-   <pt visit="15" pos="29" len="3" />
-   <pt visit="15" pos="32" len="2" />
-  </Method>
+  <Method name="Pass" sig="bool  (NUnit.Core.ITest)" bodysize="46" flags="0" iflags="0" />
   <Method name="Match" sig="bool  (NUnit.Core.ITest)" bodysize="0" flags="0" iflags="0" />
-  <Method name="MatchParent" sig="bool  (NUnit.Core.ITest)" bodysize="67" flags="0" iflags="0">
-   <pt visit="15" pos="0" len="7" />
-   <pt visit="15" pos="7" len="3" />
-   <pt visit="15" pos="10" len="6" />
-   <pt visit="15" pos="16" len="2" />
-   <pt visit="12" pos="18" len="7" />
-   <pt visit="12" pos="25" len="5" />
-   <pt visit="12" pos="30" len="2" />
-   <pt visit="2" pos="32" len="7" />
-   <pt visit="2" pos="39" len="5" />
-   <pt visit="2" pos="44" len="2" />
-   <pt visit="10" pos="46" len="1" />
-   <pt visit="12" pos="47" len="2" />
-   <pt visit="3" pos="49" len="1" />
-   <pt visit="15" pos="50" len="3" />
-   <pt visit="15" pos="53" len="2" />
-  </Method>
-  <Method name="MatchDescendant" sig="bool  (NUnit.Core.ITest)" bodysize="168" flags="0" iflags="0">
-   <pt visit="4" pos="0" len="7" />
-   <pt visit="4" pos="7" len="2" />
-   <pt visit="4" pos="9" len="6" />
-   <pt visit="4" pos="15" len="8" />
-   <pt visit="0" pos="23" len="1" />
-   <pt visit="4" pos="24" len="4" />
-   <pt visit="0" pos="28" len="4" />
-   <pt visit="4" pos="32" len="7" />
-   <pt visit="4" pos="39" len="5" />
-   <pt visit="4" pos="44" len="3" />
-   <pt visit="4" pos="47" len="6" />
-   <pt visit="4" pos="53" len="14" />
-   <pt visit="4" pos="67" len="2" />
-   <pt visit="1" pos="69" len="7" />
-   <pt visit="1" pos="76" len="5" />
-   <pt visit="3" pos="81" len="1" />
-   <pt visit="4" pos="82" len="4" />
-   <pt visit="4" pos="86" len="4" />
-   <pt visit="0" pos="90" len="1" />
-   <pt visit="4" pos="91" len="6" />
-   <pt visit="4" pos="97" len="4" />
-   <pt visit="0" pos="101" len="2" />
-   <pt visit="4" pos="103" len="17" />
-   <pt visit="0" pos="120" len="7" />
-   <pt visit="0" pos="127" len="1" />
-   <pt visit="4" pos="128" len="1" />
-   <pt visit="0" pos="129" len="5" />
-   <pt visit="4" pos="134" len="3" />
-  </Method>
+  <Method name="MatchParent" sig="bool  (NUnit.Core.ITest)" bodysize="67" flags="0" iflags="0" />
+  <Method name="MatchDescendant" sig="bool  (NUnit.Core.ITest)" bodysize="168" flags="0" iflags="0" />
   <Method name=".ctor" sig="void  ()" bodysize="8" flags="0" iflags="0">
    <pt visit="1" pos="0" len="6" />
    <pt visit="1" pos="6" len="1" />
@@ -7994,7 +7919,11 @@
  </Type>
  <Type asmref="5" name="NUnit.Core.TestFilterEmptyFilter" flags="0">
   <Method name="Match" sig="bool  (NUnit.Core.ITest)" bodysize="30" flags="0" iflags="0" />
-  <Method name="Pass" sig="bool  (NUnit.Core.ITest)" bodysize="30" flags="0" iflags="0" />
+  <Method name="Pass" sig="bool  (NUnit.Core.ITest)" bodysize="30" flags="0" iflags="0">
+   <pt visit="15" pos="0" len="7" />
+   <pt visit="15" pos="7" len="9" />
+   <pt visit="15" pos="16" len="2" />
+  </Method>
   <Method name=".ctor" sig="void  ()" bodysize="8" flags="0" iflags="0">
    <pt visit="1" pos="0" len="6" />
    <pt visit="1" pos="6" len="1" />
@@ -8116,8 +8045,8 @@
    <pt visit="9" pos="0" len="9" />
   </Method>
   <Method name="get_FullName" sig="string  ()" bodysize="24" flags="0" iflags="0">
-   <pt visit="73" pos="0" len="10" />
-   <pt visit="73" pos="10" len="2" />
+   <pt visit="42" pos="0" len="10" />
+   <pt visit="42" pos="10" len="2" />
   </Method>
   <Method name="set_FullName" sig="void  (string)" bodysize="10" flags="0" iflags="0">
    <pt visit="15" pos="0" len="9" />
@@ -8540,52 +8469,10 @@
  </Type>
  <Type asmref="5" name="NUnit.Core.Filters.SimpleNameFilter" flags="0">
   <Method name=".ctor" sig="void  ()" bodysize="22" flags="0" iflags="0" />
-  <Method name=".ctor" sig="void  (string)" bodysize="30" flags="0" iflags="0">
-   <pt visit="1" pos="0" len="6" />
-   <pt visit="1" pos="6" len="11" />
-   <pt visit="1" pos="17" len="9" />
-   <pt visit="1" pos="26" len="3" />
-  </Method>
-  <Method name="Add" sig="void  (string)" bodysize="95" flags="0" iflags="0">
-   <pt visit="1" pos="0" len="21" />
-   <pt visit="1" pos="21" len="5" />
-   <pt visit="1" pos="26" len="12" />
-   <pt visit="1" pos="38" len="9" />
-   <pt visit="1" pos="47" len="12" />
-   <pt visit="1" pos="59" len="5" />
-   <pt visit="1" pos="64" len="1" />
-   <pt visit="1" pos="65" len="5" />
-   <pt visit="2" pos="70" len="12" />
-   <pt visit="1" pos="82" len="1" />
-  </Method>
-  <Method name="IsNotNullOrEmptyTrimmed" sig="bool  (string)" bodysize="40" flags="0" iflags="0">
-   <pt visit="1" pos="0" len="4" />
-   <pt visit="1" pos="4" len="6" />
-   <pt visit="1" pos="10" len="10" />
-   <pt visit="1" pos="20" len="2" />
-   <pt visit="0" pos="22" len="1" />
-   <pt visit="1" pos="23" len="3" />
-   <pt visit="1" pos="26" len="2" />
-  </Method>
-  <Method name="Match" sig="bool  (NUnit.Core.ITest)" bodysize="132" flags="0" iflags="0">
-   <pt visit="31" pos="0" len="13" />
-   <pt visit="31" pos="13" len="3" />
-   <pt visit="31" pos="16" len="6" />
-   <pt visit="31" pos="22" len="12" />
-   <pt visit="31" pos="34" len="5" />
-   <pt visit="31" pos="39" len="6" />
-   <pt visit="31" pos="45" len="7" />
-   <pt visit="15" pos="52" len="4" />
-   <pt visit="47" pos="56" len="6" />
-   <pt visit="47" pos="62" len="4" />
-   <pt visit="16" pos="66" len="2" />
-   <pt visit="31" pos="68" len="17" />
-   <pt visit="0" pos="85" len="7" />
-   <pt visit="0" pos="92" len="1" />
-   <pt visit="31" pos="93" len="1" />
-   <pt visit="16" pos="94" len="5" />
-   <pt visit="31" pos="99" len="3" />
-  </Method>
+  <Method name=".ctor" sig="void  (string)" bodysize="30" flags="0" iflags="0" />
+  <Method name="Add" sig="void  (string)" bodysize="95" flags="0" iflags="0" />
+  <Method name="IsNotNullOrEmptyTrimmed" sig="bool  (string)" bodysize="40" flags="0" iflags="0" />
+  <Method name="Match" sig="bool  (NUnit.Core.ITest)" bodysize="132" flags="0" iflags="0" />
  </Type>
  <Type asmref="8" name="HandlrTests.Tests" flags="0">
   <Method name="CreateHandlersWithDefaultCtor" sig="void  ()" bodysize="160" flags="0" iflags="0">
@@ -8725,7 +8612,7 @@
    <pt visit="3" pos="18" len="1" fid="2" sl="61" sc="3" el="61" ec="4" />
    <pt visit="3" pos="19" len="11" fid="2" sl="62" sc="4" el="62" ec="25" />
    <pt visit="3" pos="30" len="3" />
-   <pt visit="1" pos="33" len="11" fid="2" sl="62" sc="26" el="62" ec="72" />
+   <pt visit="1" pos="33" len="11" fid="2" sl="62" sc="26" el="62" ec="70" />
    <pt visit="2" pos="44" len="8" fid="2" sl="64" sc="4" el="64" ec="36" />
    <pt visit="2" pos="52" len="18" fid="2" sl="66" sc="4" el="66" ec="29" />
    <pt visit="2" pos="70" len="3" />

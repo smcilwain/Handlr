@@ -59,7 +59,7 @@ namespace Handlr
 		/// <param name="assembly"></param>
 		public ReflectedTypeRegistry(Assembly assembly)
 		{
-			if (assembly == null) throw new ArgumentNullException("assemblies");
+			if (assembly == null) throw new ArgumentNullException("assembly");
 			
 			this.RegisterAssembly(assembly);
 					
