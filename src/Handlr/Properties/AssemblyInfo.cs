@@ -12,7 +12,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Handlr")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Steve McIlwain")]
 [assembly: AssemblyProduct("Handlr")]
 [assembly: AssemblyCopyright("Copyright 2011")]
 [assembly: AssemblyTrademark("")]
