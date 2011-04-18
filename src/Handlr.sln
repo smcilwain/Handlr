@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.0.0.7070
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlr", "Handlr\Handlr.csproj", "{B84888C5-9803-4255-BC6F-F6FDA62472FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlrTests", "HandlrTests\HandlrTests.csproj", "{D84C06A5-FE60-410D-8565-90615F110811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Debug|MCD = Debug|MCD
+		Release|MCD = Release|MCD
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84888C5-9803-4255-BC6F-F6FDA62472FC}.Debug|x86.Build.0 = Debug|x86
+		{B84888C5-9803-4255-BC6F-F6FDA62472FC}.Debug|x86.ActiveCfg = Debug|x86
+		{B84888C5-9803-4255-BC6F-F6FDA62472FC}.Release|x86.Build.0 = Release|x86
+		{B84888C5-9803-4255-BC6F-F6FDA62472FC}.Release|x86.ActiveCfg = Release|x86
+		{D84C06A5-FE60-410D-8565-90615F110811}.Debug|x86.Build.0 = Debug|x86
+		{D84C06A5-FE60-410D-8565-90615F110811}.Debug|x86.ActiveCfg = Debug|x86
+		{D84C06A5-FE60-410D-8565-90615F110811}.Release|x86.Build.0 = Release|x86
+		{D84C06A5-FE60-410D-8565-90615F110811}.Release|x86.ActiveCfg = Release|x86
+		{D84C06A5-FE60-410D-8565-90615F110811}.Debug|MCD.Build.0 = Debug|MCD
+		{D84C06A5-FE60-410D-8565-90615F110811}.Debug|MCD.ActiveCfg = Debug|MCD
+		{D84C06A5-FE60-410D-8565-90615F110811}.Release|MCD.Build.0 = Release|MCD
+		{D84C06A5-FE60-410D-8565-90615F110811}.Release|MCD.ActiveCfg = Release|MCD
+	EndGlobalSection
+EndGlobal

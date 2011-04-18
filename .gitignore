@@ -1,0 +1,11 @@
+[Dd]ebug/
+[Rr]elease/
+*.sln.cache
+*.suo
+*.csproj.user
+[Bb]in/
+[Oo]bj/
+!/lib
+*.user
+*.suo
+*.xap
